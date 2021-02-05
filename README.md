@@ -1,2 +1,2 @@
-# LED_cicle
-LED cucle test with Arduino
+# LED_loop
+LED loop test with Arduino
