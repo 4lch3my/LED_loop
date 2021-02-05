@@ -17,7 +17,7 @@ Difficulty: 2/10
 ## Getting Started
 
 #### Polarity
-First we need to determine what side of our LED is what polarity. As we are using single coloured LED's this should be simple. Usually the longer strand on the LED is the positive (+) and the shorter one is negative (-) side. If they are the same lenght, refer to manual or sellers website. I got my LED's from https://ebay.to/3cLeoJs if you want to follow along exactly.
+First we need to determine what side of our LED is what polarity. As we are using single coloured LED's this should be simple. Usually the longer strand on the LED is the positive (+) and the shorter one is negative (-) side. If they are the same length, refer to manual or sellers website. I got my LED's from https://ebay.to/3cLeoJs if you want to follow along exactly.
 
 #### Breadboard setup
 Now that we know this, we need to setup our breadboard with all the components before connecting it to the Arduino. I have included a handy image and schematic on how everything needs to be setup on the board. (Coloured wires DO NOT represent the polarity of the wires.)
@@ -31,7 +31,7 @@ After connecting all the wires, you should end up with something like this:
 #### Connecting to Arduino
 
 After the main board is setup, we can start working on connecting it to the Arduino. <br>
-I have added a coloure coded image below, so you can easily attach all cables as needed
+I have added a coloured coded image below, so you can easily attach all cables as needed
 
 <p align="center"><img src="https://github.com/4lch3my/LED_loop/blob/main/Scematics/LED_loop_with_board.png"/></p>
 
