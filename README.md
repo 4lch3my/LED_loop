@@ -1,6 +1,6 @@
 # LED loop on Arduino
 
-<p align="center"><img src="https://github.com/4lch3my/LED_loop/blob/main/Scematics/final.gif"/></p> //replace with actual video
+<p align="center"><img src="https://github.com/4lch3my/LED_loop/blob/main/Scematics/final.gif"/></p>
 
 
 Difficulty: 2/10
